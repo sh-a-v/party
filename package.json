@@ -2,9 +2,14 @@
   "name": "party",
   "version": "0.0.1",
   "devDependencies": {
-    "gulp": "^3.8.11"
+    "babel-core": "^5.1.13",
+    "babel-loader": "^5.0.0",
+    "gulp": "^3.8.11",
+    "gulp-webpack": "^1.4.0",
+    "webpack": "^1.8.9"
   },
   "dependencies": {
+    "flummox": "^4.0.0-alpha",
     "react": "^0.13.2"
   }
 }
